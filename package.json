@@ -1,0 +1,26 @@
+{
+  "name": "code-and-care-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/start.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmb-2222/code-and-care-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmb-2222/code-and-care-back/issues"
+  },
+  "homepage": "https://github.com/dmb-2222/code-and-care-back#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
